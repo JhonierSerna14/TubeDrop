@@ -25,8 +25,8 @@ Un descargador profesional y moderno para videos y playlists de YouTube con inte
 
 1. **Clonar o descargar el proyecto**
    ```bash
-   git clone https://github.com/tu-usuario/youtube-downloader.git
-   cd youtube-downloader
+   git clone https://github.com/JhonierSerna14/TubeDrop.git
+   cd TubeDrop
    ```
 
 2. **Instalar dependencias**
@@ -171,27 +171,12 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 3. **Actualiza yt-dlp**: `pip install --upgrade yt-dlp`
 4. **Reporta problemas** en GitHub Issues
 
-## 🎉 Contribuir
-
-¡Las contribuciones son bienvenidas!
-
-1. Fork del proyecto
-2. Crear rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit de cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
-
-## ⭐ Créditos
-
-- **yt-dlp**: Motor de descarga principal
-- **tkinter**: Interfaz gráfica
-- **Python**: Lenguaje de programación
-
----
 
 <div align="center">
 
-**🎵 ¡Disfruta descargando tu música y videos favoritos! 🎵**
+⚡ Desarrollado con Python y ❤️
+
+🌟 ¡Dale una estrella si te gusta el proyecto! ⭐
 
 [⬆️ Volver arriba](#youtube-downloader-)
 
